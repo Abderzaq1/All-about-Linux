@@ -28,12 +28,9 @@ To get started with this repository, you
 can clone it to your local machine:
 
 ## Using this command 
+- https://github.com/Abderzaq1/All-about-Linux-.git
 
-- git clone
-- https://github.com/yourusername/linux-
- commands-lessons.git
-
-- cd linux-commands-lessons
+- cd All-about-Linux-
 
 Once cloned, you can explore the various 
 files, each containing valuable resources
