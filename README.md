@@ -28,9 +28,9 @@ To get started with this repository, you
 can clone it to your local machine:
 
 ## Using this command 
-- https://github.com/Abderzaq1/All-about-Linux-.git
+- https://github.com/Abderzaq1/All-about-Linux.git
 
-- cd All-about-Linux-
+- cd All-about-Linux
 
 Once cloned, you can explore the various 
 files, each containing valuable resources
